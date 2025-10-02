@@ -8,6 +8,12 @@ My passion for technology extends beyond my professional work. I run a mini tech
 - 💼 LinkedIn: [linkedin.com/in/daniel-alberski](https://www.linkedin.com/in/daniel-alberski/)
 - 🐙 GitHub: [github.com/adan2013](https://github.com/adan2013)
 
+## Top projects
+
+- [**Redark**](https://github.com/adan2013/Redark-Gatsby-Blog) - Tech blog created in 2018 on WordPress with a custom PHP theme to share IT knowledge. In 2020, successfully migrated to React and Gatsby to improve stability, performance, and customization. All articles written in MDX files.
+- **Smart home system** [Frontend](https://github.com/adan2013/HA-Dashboard) / [Backend](https://github.com/adan2013/HA-Backend) - My smart home system features a tablet-optimized React frontend and a custom Node.js backend to manage automations, weather data, and notifications, using Home Assistant for device communication via ZigBee, MQTT, and WebSockets.
+- [**DIY Arduino Dashboard**](https://github.com/adan2013/DIY-Arduino-Dashboard) - My biggest DIY project with involved building physical car gauges for truck simulator games. The gauges feature analog dials, warning lights, and an interactive LCD controlled by custom C# and Arduino software. The repository contains source code, electronic schematics, videos and a detailed build log.
+
 ## 🛠️ Technologies & Skills
 
 - **Programming Languages:** TypeScript, Node.js, C#, PHP
