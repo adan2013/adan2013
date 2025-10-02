@@ -1,8 +1,8 @@
 # Hello there 👋
 
-I'm a Senior Frontend Developer specializing in the React ecosystem , with over 5 years of commercial experience using the library to create advanced user interfaces and views.
+I'm a Senior Frontend Developer specializing in the React ecosystem, with over 5 years of commercial experience using the library to create advanced user interfaces and views.
 
-My passion for technology extends beyond my professional work. I run a mini tech blog where I share my knowledge. My interest in DIY projects , electronics , and 3D printing has taught me to embrace challenges, explore new fields, and has honed my analytical thinking skills.
+My passion for technology extends beyond my professional work. I run a mini tech blog where I share my knowledge. My interest in DIY projects, electronics, and 3D printing has taught me to embrace challenges, explore new fields, and has honed my analytical thinking skills.
 
 - 🔗 Portfolio: [danielalberski.adanit.pl](https://danielalberski.adanit.pl)
 - 💼 LinkedIn: [linkedin.com/in/daniel-alberski](https://www.linkedin.com/in/daniel-alberski/)
