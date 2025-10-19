@@ -10,14 +10,14 @@ My passion for technology extends beyond my professional work. I run a mini tech
 
 ## Top projects
 
-- [**Redark**](https://github.com/adan2013/Redark-Gatsby-Blog) - Tech blog created in 2018 on WordPress with a custom PHP theme to share IT knowledge. In 2020, successfully migrated to React and Gatsby to improve stability, performance, and customization. All articles written in MDX files.
-- **Smart home system** [Frontend](https://github.com/adan2013/HA-Dashboard) / [Backend](https://github.com/adan2013/HA-Backend) - My smart home system features a tablet-optimized React frontend and a custom Node.js backend to manage automations, weather data, and notifications, using Home Assistant for device communication via ZigBee, MQTT, and WebSockets.
-- [**DIY Arduino Dashboard**](https://github.com/adan2013/DIY-Arduino-Dashboard) - My biggest DIY project with involved building physical car gauges for truck simulator games. The gauges feature analog dials, warning lights, and an interactive LCD controlled by custom C# and Arduino software. The repository contains source code, electronic schematics, videos and a detailed build log.
+- **Redark** - Tech blog created in 2018 on WordPress with a custom PHP theme to share IT knowledge. In 2020, successfully migrated to React and Gatsby to improve stability, performance, and customization. In 2025, a Next.js version was created as a proof of concept, but was never deployed to production due to low traffic. All articles written in MDX files. [Gatsby version](https://github.com/adan2013/Redark-Gatsby-Blog) [Next version](https://github.com/adan2013/redark-next)
+- **Smart home system** - My smart home system features a tablet-optimized React frontend and a custom Node.js backend to manage automations, weather data, and notifications, using Home Assistant for device communication via ZigBee, MQTT, and WebSockets. [Frontend](https://github.com/adan2013/HA-Dashboard) [Backend](https://github.com/adan2013/HA-Backend)
+- **DIY Arduino Dashboard** - My biggest DIY project with involved building physical car gauges for truck simulator games. The gauges feature analog dials, warning lights, and an interactive LCD controlled by custom C# and Arduino software. The repository contains source code, electronic schematics, videos and a detailed build log. [Repository](https://github.com/adan2013/DIY-Arduino-Dashboard) [Article](https://redark.pl/diy-arduino-dashboard-ets-ats-eng)
 
 ## 🛠️ Technologies & Skills
 
 - **Programming Languages:** TypeScript, Node.js, C#, PHP
-- **Technologies:** React & React Native, GraphQL, Firebase, Gatsby
+- **Technologies:** React, GraphQL, Firebase, Gatsby, Next.js
 - **Styling:** Tailwind, Styled Components, Material UI, CSS 
 - **Testing:** Jest, React Testing Library
 - **Software:** Jira, Figma, Autodesk Fusion 360
